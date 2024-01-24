@@ -1,0 +1,11 @@
+body {
+  align-items: left;
+}
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  text-align: center;
+}
